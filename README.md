@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @modbuster1
-- 👀 I’m interested in learning to code Solidity, been interested in it for a couple months and only now took the chance to try and fully imerse my self into it
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in learning to code JS and Solidity, been interested in it for a couple months and only now took the chance to try and fully imerse my self into it
+- 🌱 I’m currently learning JS and Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Buster#0703 on discord
 
